@@ -1,0 +1,44 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 60%;
+    font-size: 20px;
+  }
+  
+  td, th {
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd;;
+    text-align: left;
+    padding: 5px;
+    font-weight: bold;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #ffffff;
+
+  }
+
+  th{
+    color: rgb(127, 126, 126);    
+  }
+
+  .hola{
+    display: flex;
+    padding-right: 30px;
+  }
+
+  .hola p{
+    margin-left: 15px;
+  }
+
+  .hola img{
+    width: 45px;
+    height: 45px;
+    margin-left: 15px;
+  }
+
+  .imagen{
+    width: 45px;
+    height: 45px;
+  }
+
